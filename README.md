@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xrobot1992
+- 👀 I’m interested in LaTeX, TikZ, Linux
+- 🌱 I’m currently learning web development using the CodeIgniter framework.
+- 📫 How to reach me here or my mail :-)
